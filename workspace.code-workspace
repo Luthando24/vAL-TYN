@@ -1,0 +1,26 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\Desktop\\ut"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Downloads\\Music.html"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Documents\\Music.html"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\Documents\\DuckDuck"
+		},
+		{
+			"path": "..\\..\\yamkela project"
+		},
+		{
+			"path": "..\\..\\HTML.1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "yamkela project",
+		"git.ignoreLimitWarning": true
+	}
+}
